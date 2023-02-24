@@ -1,5 +1,5 @@
 
-### Olá! Eus sou Adilson Quinguangua ✋
+### Olá! Eu sou o Adilson Quinguangua ✋
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://adilsonq.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/adquinguangua)
@@ -22,7 +22,8 @@
 [![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 
-Viciado em excelência, apaixonado por tcecnologia, educação  e ciber segurança. Amo proteger as pessoas por meio das ferramentas de ciber segurança.
+Viciado em excelência, apaixonado por tcecnologia, educação  e ciber segurança. Amo proteger as pessoas por meio das <br/>
+ferramentas de ciber segurança.
 
 ### Formas de contacto:
 E-mail: quinguanguaadilk81@outlook.pt <br/>
