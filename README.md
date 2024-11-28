@@ -29,4 +29,3 @@ ferramentas de ciber segurança.
 
 ### Formas de contacto:
 E-mail: quinguanguaadilk81@outlook.pt <br/>
-Cell: +244 942 157 725
